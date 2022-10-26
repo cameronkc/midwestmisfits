@@ -10,6 +10,17 @@
     text-align: center;
 }
 
+.navBar h1 {
+    padding: 1em
+}
+
+@media only screen and (min-width: 600px) {
+    .navbar {
+        font-size: 1.5em
+    }
+  }
+
+
 .navBar ul {
     display: inline-block;
     justify-content: center;
